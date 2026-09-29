@@ -1,0 +1,1 @@
+# ResQNet-Real-Time-Disaster-Response-Resource-Allocation-Platform
